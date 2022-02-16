@@ -1,0 +1,19 @@
+{
+  "name": "@engineerafo/npmtest",
+  "version": "1.0.0",
+  "description": "test",
+  "main": "index.js",
+  "scripts": {
+    "test": "exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/engineerafo/npmtest.git"
+  },
+  "author": "Afo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/engineerafo/npmtest/issues"
+  },
+  "homepage": "https://github.com/engineerafo/npmtest#readme"
+}
